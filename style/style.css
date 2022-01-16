@@ -1,0 +1,77 @@
+
+h1,h2,h3,h4,h5{
+    color:whitesmoke;
+}
+.h1{
+    margin-block-start: 0em;
+}
+
+.area{
+    width: 30em;
+    display:inline-flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:dimgray;   
+    font-style:inherit;
+    border-radius: 0.5em; 
+padding: 1em;
+}
+.textarea{
+    width: 100%;
+    margin-top: 0.5em;
+}
+.container{
+    width: 100%;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container1{
+    width: 100%;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container2{
+    width: 100%;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container3{
+    width: 100%;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+}  
+.container4{
+    width: 100%;
+    display: inline-flex;
+    padding: 1em;
+    border-radius: 1em;
+    align-items: center;
+    justify-content: space-evenly
+}
+.espacio{
+    display: flex;
+    justify-content: center;
+}
+button{
+    height: 3em;
+    width: 100%;
+    background-color:rgb(230, 113, 4);
+    border: none;
+    color: whitesmoke;
+}
+
+button:hover{
+    cursor: pointer;
+}
